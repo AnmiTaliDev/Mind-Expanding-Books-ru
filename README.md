@@ -1,126 +1,126 @@
-# Mind Expanding Books
+# Книги, Расширяющие Сознание
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Looking to find a book an interesting book to read but don't know where to start? You are in the right place!
+Хотите найти интересную книгу для чтения, но не знаете, с чего начать? Вы попали по адресу!
 
-See [Contributing Guidelines](CONTRIBUTING.md) for details on how the books are curated.
+См. [Правила участия](CONTRIBUTING.md) для получения информации о том, как отбираются книги.
 
 <a id="top"></a>
-## Table of Contents
-- [Mind Expanding Books](#mind-expanding-books)
-  - [Table of Contents](#table-of-contents)
-- [Books](#books)
-  - [Startups and Business](#startups-and-business)
-  - [Philosophy And Psychology](#philosophy-and-psychology)
-  - [Autobiographies and Biographies](#autobiographies-and-biographies)
-  - [History](#history)
-  - [Science and Medicine](#science-and-medicine)
-  - [Logic and Problem Solving](#logic-and-problem-solving)
-  - [Politics](#politics)
-  - [Economics](#economics)
-  - [Gender](#gender)
-  - [Sexuality](#sexuality)
-  - [Race](#race)
-  - [Education](#education)
-  - [Writing](#writing)
-  - [Theater and Film](#theater-and-film)
-  - [Shakespeare](#shakespeare)
-  - [Fiction](#fiction)
-    - [Classics](#classics)
-    - [Fantasy](#fantasy)
-    - [Historical Fiction](#historical-fiction)
-    - [Humor](#humor)
-    - [Mystery](#mystery)
-    - [Science Fiction](#science-fiction)
-    - [Horror](#horror)
-    - [Miscellaneous](#miscellaneous)
-  - [Health](#health)
-  - [Design](#design)
-  - [Travel](#travel)
-  - [Language](#language)
-  - [Nature](#nature)
-  - [Art](#art)
-  - [Credits](#credits)
-  - [License](#license)
+## Содержание
+- [Книги, Расширяющие Сознание](#книги-расширяющие-сознание)
+  - [Содержание](#содержание)
+- [Книги](#книги)
+  - [Стартапы и Бизнес](#стартапы-и-бизнес)
+  - [Философия и Психология](#философия-и-психология)
+  - [Автобиографии и Биографии](#автобиографии-и-биографии)
+  - [История](#история)
+  - [Наука и Медицина](#наука-и-медицина)
+  - [Логика и Решение Задач](#логика-и-решение-задач)
+  - [Политика](#политика)
+  - [Экономика](#экономика)
+  - [Гендер](#гендер)
+  - [Сексуальность](#сексуальность)
+  - [Раса](#раса)
+  - [Образование](#образование)
+  - [Писательство](#писательство)
+  - [Театр и Кино](#театр-и-кино)
+  - [Шекспир](#шекспир)
+  - [Художественная литература](#художественная-литература)
+    - [Классика](#классика)
+    - [Фэнтези](#фэнтези)
+    - [Историческая проза](#историческая-проза)
+    - [Юмор](#юмор)
+    - [Детективы](#детективы)
+    - [Научная фантастика](#научная-фантастика)
+    - [Ужасы](#ужасы)
+    - [Разное](#разное)
+  - [Здоровье](#здоровье)
+  - [Дизайн](#дизайн)
+  - [Путешествия](#путешествия)
+  - [Язык](#язык)
+  - [Природа](#природа)
+  - [Искусство](#искусство)
+  - [Благодарности](#благодарности)
+  - [Лицензия](#лицензия)
 
-# Books
+# Книги
 
-## Startups and Business
-| Name | Author | Goodreads Rating | Year Published |
+## Стартапы и Бизнес
+| Название | Автор | Рейтинг Goodreads | Год издания |
 |------|--------|------------------|----------------|
-| Shoe Dog: A Memoir by the Creator of Nike | Phil Knight | [4.46](https://www.goodreads.com/book/show/27220736-shoe-dog) | 2016 |
-| The Ride of a Lifetime: Lessons Learned from 15 Years as CEO of the Walt Disney Company | Robert Iger, Joel Lovell | [4.44](https://www.goodreads.com/book/show/44525305-the-ride-of-a-lifetime) | 2019 |
-| Bad Blood: Secrets and Lies in a Silicon Valley Startup | John Carreyrou | [4.4](https://www.goodreads.com/book/show/37976541-bad-blood) | 2018 |
-| The Compound Effect | Darren Hardy | [4.40](https://www.goodreads.com/book/show/9420697-the-compound-effect) | 2010 |
-| Never Split the Difference | Chris Voss | [4.39](https://www.goodreads.com/book/show/26156469-never-split-the-difference) | 2016 |
-| Failing to Succeed: The Story of India's First E-Commerce Company | K. Vaitheeswaran | [4.39](https://www.goodreads.com/book/show/35626210-failing-to-succeed) | 2017 |
-| High Output Management | Andy Grove | [4.38](https://www.goodreads.com/book/show/324750.High_Output_Management) | 1995 |
-| Outwitting the Devil: The Secret to Freedom and Success | Napoleon Hill | [4.38](https://www.goodreads.com/book/show/10713286-outwitting-the-devil) | 2011 |
-| The Millionaire Fastlane: Crack the Code to Wealth and Live Rich for a Lifetime! | M.J. DeMarco | [4.28](https://www.goodreads.com/book/show/18872437-the-millionaire-fastlane) | 2011 |
-| How to Get From Where You Are to Where You Want to Be : The 25 Principles of Success | Jack Canfield, Janet Switzer | [4.26](https://www.goodreads.com/book/show/96593.The_Success_Principles) | 2007 |
-| The Big Short: Inside the Doomsday Machine | Michael Lewis | [4.26](https://www.goodreads.com/book/show/8032112-the-big-short) | 2015 |
-| The Future Is Faster Than You Think: How Converging Technologies Are Transforming Business, Industries, and Our Lives | Peter H. Diamandis, Steven Kotler | [4.25](https://www.goodreads.com/book/show/52290273-the-future-is-faster-than-you-think) | 2020 |
-| The Middle Finger Project | Ash Ambirge | [4.22](https://www.goodreads.com/book/show/46064079-the-middle-finger-project?from_search=true&from_srp=true&qid=WY4obsfps3&rank=1) | 2020 |
-| Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration |  Ed Catmull, Amy Wallace | [4.21](https://www.goodreads.com/book/show/18077903-creativity-inc) | 2014 |
-| The Score Takes Care of Itself: My Philosophy of Leadership | Bill Walsh, Steve Jamison, Craig Walsh | [4.21](https://www.goodreads.com/book/show/6342995-the-score-takes-care-of-itself) | 2009 |
-| The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers | Ben Horowitz | [4.20](https://www.goodreads.com/book/show/18176747-the-hard-thing-about-hard-things) | 2014 |
-| Think and Grow Rich | Napoleon Hill | [4.17](https://www.goodreads.com/book/show/30186948-think-and-grow-rich) | 1937 |
-| AI Superpowers: China, Silicon Valley, and the New World Order |  Kai-Fu Lee | [4.16](https://www.goodreads.com/book/show/38242135-ai-superpowers) | 2018 |
-| Nail it then Scale it: The Entrepreneur's Guide to Creating and Managing Breakthrough | Nathan Furr | [4.13](https://www.goodreads.com/book/show/12236649-nail-it-then-scale-it) | 2011 |
-| Outliers: Story of Success | Malcolm Gladwell | [4.11](https://www.goodreads.com/work/quotes/3364437-outliers-the-story-of-success) | 2008 |
-| The Strategy and Tactics of Pricing : A Guide to Move More Profitable | Thomas Nagle, John Hogan, Joseph Zale | [4.09](https://www.goodreads.com/book/show/99919.The_Strategy_and_Tactics_of_Pricing) | 2005 |
-| Principles: Life and Work | Ray Dalio | [4.07](https://www.goodreads.com/book/show/34536488-principles) | 2017 |
-| Start with Why: How Great Leaders Inspire Everyone to Take Action | Simon Sinek | [4.07](https://www.goodreads.com/book/show/7108725-start-with-why) | 2009 |
-| Leaving Microsoft to Change the World: An Entrepreneur's Odyssey to Educate the World's Children | John Wood | [4.07](https://www.goodreads.com/book/show/95429.Leaving_Microsoft_to_Change_the_World) | 2006 |
-| Hackers and Painters | Paul Graham | [4.06](https://www.goodreads.com/book/show/41793.Hackers_Painters) | 2004 |
-| How Google Works | Eric Schmidt, Jonathan Rosenberg | [4.06](https://www.goodreads.com/book/show/23158207-how-google-works) | 2014 |
-| Crucial Conversations: Tools for Talking When Stakes Are High | Kerry Patterson, Joseph Grenny, Ron McMillan, Al Switzler | [4.05](https://www.goodreads.com/book/show/15014.Crucial_Conversations) | 2002 |
-| Good to Great: Why Some Companies Make the Leap And Others Don't | Jim Collins | [4.05](https://www.goodreads.com/book/show/76865.Good_to_Great) | 2001 |
-| The Lean Startup: How Constant Innovation Creates Radically Successful Businesses | Eric Ries | [4.04](https://www.goodreads.com/book/show/10127019-the-lean-startup) | 2011 |
-| The Power of Full Engagement: Managing Energy, Not Time, is the Key to High Performance and Personal Renewal | Jim Loehr, Tony Schwartz | [4.03](http://www.goodreads.com/book/show/68985.The_Power_of_Full_Engagement) | 2005 |
-| The Checklist Manifesto: How To Get Things Right | Atul Gawande | [4.03](http://www.goodreads.com/book/show/6667514-the-checklist-manifesto) | 2009 |
-| Where Good Ideas Come From | Steven Johnson | [4.03](https://www.goodreads.com/book/show/8034188-where-good-ideas-come-from) | 2010 |
-| Delivering Happiness: A Path to Profits, Passion, and Purpose | Tony Hsieh | [4.01](http://www.goodreads.com/book/show/6828896-delivering-happiness) | 2010 |
-| The Innovator's Dilemma | clayton m. christensen | [4.00](https://www.goodreads.com/book/show/2615.The_Innovator_s_Dilemma) | 1997 |
-| Influencer: The New Science of Leading Change | Joseph Grenny, Kerry Patterson | [3.98](https://www.goodreads.com/book/show/914211.Influencer) | 2007 |
-| The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It | Michael E. Gerber | [3.98](https://www.goodreads.com/book/show/81948.The_E_Myth_Revisited) | 1995 |
-| Getting Things Done: The Art of Stress-Free Productivity | David Allen | [3.98](https://www.goodreads.com/book/show/1633.Getting_Things_Done) | 2001 |
-| Losing My Virginity: How I Survived, Had Fun, and Made a Fortune Doing Business My Way | Richard Branson | [3.97](https://www.goodreads.com/book/show/211099.Losing_My_Virginity) | 1998 |
-| SuperFreakonomics: Global Cooling, Patriotic Prostitutes, and Why Suicide Bombers Should Buy Life Insurance | Steven D. Litt | [3.96](https://www.goodreads.com/book/show/6402364-superfreakonomics) | 2009 |
-| The Ten Faces of Innovation | Tom Kelley | [3.96](https://www.goodreads.com/book/show/95656.The_Ten_Faces_of_Innovation) | 2005 |
-| Rich Dad Poor Dad : What The Rich Teach Their Kids About Money That The Poor And Middle Class Don't | Robert T. Kiyosaki | [3.95](https://www.goodreads.com/book/show/69571.Rich_Dad_Poor_Dad) | 1997 |
-| Founders At Work: Stories Of Startups Early Days | Jessica Livingston | [3.94](https://www.goodreads.com/book/show/98233.Founders_at_Work) | 2007 |
-| The Paypal Wars | Eric M. Jackson | [3.94](https://www.goodreads.com/book/show/4052.The_PayPal_Wars) | 2010 |
-| Lean In : Women, Work and the Will to Lead | Sheryl Sandberg | [3.94](http://www.goodreads.com/book/show/16071764-lean-in) | 2013 |
-| ReWork: Change the Way You Work Forever | David Heinemeier Hansson | [3.93](https://www.goodreads.com/book/show/6732019-rework) | 2010 |
-| The 22 Immutable Laws Of Branding | Laura Ries and Al Ries | [3.93](https://www.goodreads.com/book/show/1565533.The_22_Immutable_Laws_of_Branding) | 1998 |
-| Freakonomics: A Rogue Economist Explores the Hidden Side of Everything | Steven D. Levitt, Stephen J. Dubner | [3.93](https://www.goodreads.com/book/show/1202.Freakonomics) | 2006 |
-| The Tipping Point: How Little Things Can Make a Big Difference | Malcolm Gladwell | [3.92](https://www.goodreads.com/book/show/2612.The_Tipping_Point) | 2002 |
-| The Four Steps to the Epiphany | Steve Blank | [3.92](https://www.goodreads.com/book/show/762542.The_Four_Steps_to_the_Epiphany) | 2005 |
-| The Curse of the Mogul | Jonathan A. Knee, Bruce C. Greenwald, Ava Seave | [3.91](https://www.goodreads.com/book/show/7162410-the-curse-of-the-mogul) | 2009 |
-| David and Goliath: Underdogs, Misfits, and the Art of Battling Giants | Malcolm Gladwell | [3.90](https://www.goodreads.com/book/show/15751404-david-and-goliath) | 2013 |
-| Strategy for Sustainability: A Business Manifesto | Adam Werbach | [3.89](https://www.goodreads.com/book/show/6553353-strategy-for-sustainability) | 2009 |
-| The Black Swan: The Impact of the Highly Improbable | Nassim Nicholas Taleb | [3.88](http://www.goodreads.com/book/show/242472.The_Black_Swan) | 2007 |
-| Contagious: Why Things Catch On | Jonah Berger | [3.88](https://www.goodreads.com/book/show/15801967-contagious) | 2013 |
-| Who Says Elephants Can't Dance?: Leading a Great Enterprise through Dramatic Change | Louis V Gerstner, Jr | [3.88](https://www.goodreads.com/book/show/603985.Who_Says_Elephants_Can_t_Dance_) | 2003 |
-| Linchpin: Are You Indispensable | Seth Godin | [3.87](https://www.goodreads.com/book/show/7155145-linchpin) | 2010 |
-| The $100 Startup: Reinvent the Way You Make a Living, Do What You Love, and Create a New Future | Chris Guillebeau | [3.85](https://www.goodreads.com/book/show/12605157-the-100-startup) | 2012 |
-| Too Big to Fail | Andrew Ross Sorkin | [3.85](https://www.goodreads.com/book/show/6687247-too-big-to-fail) | 2011 |
-| The Paradox of Choice: Why More Is Less | Barry Shwartz | [3.84](https://www.goodreads.com/book/show/10639.The_Paradox_of_Choice) | 2005 |
-| The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything | Guy Kawasaki | [3.82](https://www.goodreads.com/book/show/37875.The_Art_of_the_Start) | 2004 |
-| Crowdsourcing: Why the Power of the Crowd Is Driving the Future of Business | Jeff Howe | [3.82](https://www.goodreads.com/book/show/2601510-crowdsourcing) | 2008 |
-| Cognitive Surplus: Creativity and Generosity in a Connected Age | Clay Shirky | [3.82](https://www.goodreads.com/book/show/7614793-cognitive-surplus) | 2010 |
-| Data Driven | D.J. Patil | [3.80](https://www.goodreads.com/book/show/24780653-data-driven) | 2015 |
-| Zero to One | Peter Thiel, Blake Masters | [3.75](https://www.goodreads.com/book/show/18050143-zero-to-one) | 2014 |
-| One Click: Jeff Bezos and the Rise of Amazon.com | Richard Brandt | [3.75](https://www.goodreads.com/book/show/11223478-one-click) | 2011 |
-| Big Data: A Revolution That Will Transform How We Live, Work, and Think | Kenneth Cukier | [3.70](https://www.goodreads.com/book/show/15815598-big-data) | 2013 |
-| The 4-Hour Work Week: Escape the 9-5, Live Anywhere and Join the New Rich | Timothy Ferriss | [3.61](https://www.goodreads.com/book/show/368593.The_4_Hour_Workweek) | 2012 |
-| The Accidental Billionaires : The Founding of Facebook, a Tale of Sex, Money, Genius and Betrayal | Ben Mezrich | [3.50](https://www.goodreads.com/book/show/6326920-the-accidental-billionaires) | 2009 |
+| Shoe Dog: Мемуары создателя Nike | Фил Найт | [4.46](https://www.goodreads.com/book/show/27220736-shoe-dog) | 2016 |
+| Поездка всей жизни: Уроки, извлечённые за 15 лет работы CEO Walt Disney Company | Роберт Айгер, Джоэл Ловелл | [4.44](https://www.goodreads.com/book/show/44525305-the-ride-of-a-lifetime) | 2019 |
+| Дурная кровь: Секреты и ложь в стартапе Кремниевой долины | Джон Каррейру | [4.4](https://www.goodreads.com/book/show/37976541-bad-blood) | 2018 |
+| Эффект сложных процентов | Даррен Харди | [4.40](https://www.goodreads.com/book/show/9420697-the-compound-effect) | 2010 |
+| Никогда не делите разницу | Крис Восс | [4.39](https://www.goodreads.com/book/show/26156469-never-split-the-difference) | 2016 |
+| Провал ради успеха: История первой электронной коммерции Индии | К. Вайтисваран | [4.39](https://www.goodreads.com/book/show/35626210-failing-to-succeed) | 2017 |
+| Высокоэффективный менеджмент | Энди Гроув | [4.38](https://www.goodreads.com/book/show/324750.High_Output_Management) | 1995 |
+| Перехитрить дьявола: Секрет свободы и успеха | Наполеон Хилл | [4.38](https://www.goodreads.com/book/show/10713286-outwitting-the-devil) | 2011 |
+| Скоростная полоса миллионера: Взломай код богатства и живи богато всю жизнь! | М. Дж. ДеМарко | [4.28](https://www.goodreads.com/book/show/18872437-the-millionaire-fastlane) | 2011 |
+| Как попасть туда, где хочешь быть: 25 принципов успеха | Джек Кэнфилд, Джанет Свитцер | [4.26](https://www.goodreads.com/book/show/96593.The_Success_Principles) | 2007 |
+| Игра на понижение: Внутри машины судного дня | Майкл Льюис | [4.26](https://www.goodreads.com/book/show/8032112-the-big-short) | 2015 |
+| Будущее быстрее, чем вы думаете: Как сходящиеся технологии трансформируют бизнес, промышленность и нашу жизнь | Питер Диамандис, Стивен Котлер | [4.25](https://www.goodreads.com/book/show/52290273-the-future-is-faster-than-you-think) | 2020 |
+| Проект среднего пальца | Эш Эмбридж | [4.22](https://www.goodreads.com/book/show/46064079-the-middle-finger-project?from_search=true&from_srp=true&qid=WY4obsfps3&rank=1) | 2020 |
+| Корпорация гениев: Как управлять командой творческих людей | Эд Кэтмелл, Эми Уоллес | [4.21](https://www.goodreads.com/book/show/18077903-creativity-inc) | 2014 |
+| Счёт сам о себе позаботится: Моя философия лидерства | Билл Уолш, Стив Джеймисон, Крейг Уолш | [4.21](https://www.goodreads.com/book/show/6342995-the-score-takes-care-of-itself) | 2009 |
+| Трудные вещи в трудные времена: Создание бизнеса, когда нет лёгких ответов | Бен Горовиц | [4.20](https://www.goodreads.com/book/show/18176747-the-hard-thing-about-hard-things) | 2014 |
+| Думай и богатей | Наполеон Хилл | [4.17](https://www.goodreads.com/book/show/30186948-think-and-grow-rich) | 1937 |
+| Сверхдержавы искусственного интеллекта: Китай, Кремниевая долина и новый мировой порядок | Кай-Фу Ли | [4.16](https://www.goodreads.com/book/show/38242135-ai-superpowers) | 2018 |
+| Сначала прибей, потом масштабируй: Руководство предпринимателя по созданию прорывного проекта | Нейтан Фурр | [4.13](https://www.goodreads.com/book/show/12236649-nail-it-then-scale-it) | 2011 |
+| Гении и аутсайдеры: История успеха | Малколм Гладуэлл | [4.11](https://www.goodreads.com/work/quotes/3364437-outliers-the-story-of-success) | 2008 |
+| Стратегия и тактика ценообразования: Руководство по повышению прибыльности | Томас Нэйгл, Джон Хоган, Джозеф Зейл | [4.09](https://www.goodreads.com/book/show/99919.The_Strategy_and_Tactics_of_Pricing) | 2005 |
+| Принципы: Жизнь и работа | Рэй Далио | [4.07](https://www.goodreads.com/book/show/34536488-principles) | 2017 |
+| Начни с почему: Как великие лидеры вдохновляют всех действовать | Саймон Синек | [4.07](https://www.goodreads.com/book/show/7108725-start-with-why) | 2009 |
+| Покинуть Microsoft, чтобы изменить мир: Одиссея предпринимателя по образованию детей мира | Джон Вуд | [4.07](https://www.goodreads.com/book/show/95429.Leaving_Microsoft_to_Change_the_World) | 2006 |
+| Хакеры и художники | Пол Грэм | [4.06](https://www.goodreads.com/book/show/41793.Hackers_Painters) | 2004 |
+| Как работает Google | Эрик Шмидт, Джонатан Розенберг | [4.06](https://www.goodreads.com/book/show/23158207-how-google-works) | 2014 |
+| Важные разговоры: Инструменты для разговоров на высоких ставках | Керри Паттерсон, Джозеф Гренни, Рон Макмиллан, Эл Свитцлер | [4.05](https://www.goodreads.com/book/show/15014.Crucial_Conversations) | 2002 |
+| От хорошего к великому: Почему одни компании совершают прорыв, а другие нет | Джим Коллинз | [4.05](https://www.goodreads.com/book/show/76865.Good_to_Great) | 2001 |
+| Бережливый стартап: Как постоянные инновации создают радикально успешный бизнес | Эрик Рис | [4.04](https://www.goodreads.com/book/show/10127019-the-lean-startup) | 2011 |
+| Сила полного вовлечения: Управление энергией, а не временем — ключ к высокой производительности | Джим Лоэр, Тони Шварц | [4.03](http://www.goodreads.com/book/show/68985.The_Power_of_Full_Engagement) | 2005 |
+| Манифест чек-листа: Как делать всё правильно | Атул Гаванде | [4.03](http://www.goodreads.com/book/show/6667514-the-checklist-manifesto) | 2009 |
+| Откуда берутся хорошие идеи | Стивен Джонсон | [4.03](https://www.goodreads.com/book/show/8034188-where-good-ideas-come-from) | 2010 |
+| Доставляя счастье: Путь к прибыли, страсти и цели | Тони Шей | [4.01](http://www.goodreads.com/book/show/6828896-delivering-happiness) | 2010 |
+| Дилемма инноватора | Клейтон Кристенсен | [4.00](https://www.goodreads.com/book/show/2615.The_Innovator_s_Dilemma) | 1997 |
+| Влиятель: Новая наука управления изменениями | Джозеф Гренни, Керри Паттерсон | [3.98](https://www.goodreads.com/book/show/914211.Influencer) | 2007 |
+| Миф о предпринимательстве: Почему большинство малых предприятий не работают и что с этим делать | Майкл Гербер | [3.98](https://www.goodreads.com/book/show/81948.The_E_Myth_Revisited) | 1995 |
+| Как привести дела в порядок: Искусство продуктивности без стресса | Дэвид Аллен | [3.98](https://www.goodreads.com/book/show/1633.Getting_Things_Done) | 2001 |
+| Теряя невинность: Как я выжил, веселился и сколотил состояние, ведя бизнес по-своему | Ричард Брэнсон | [3.97](https://www.goodreads.com/book/show/211099.Losing_My_Virginity) | 1998 |
+| Суперфрикономика: Глобальное похолодание, патриотические проститутки и почему террористам-смертникам стоит покупать страховку жизни | Стивен Левитт | [3.96](https://www.goodreads.com/book/show/6402364-superfreakonomics) | 2009 |
+| Десять лиц инноваций | Том Келли | [3.96](https://www.goodreads.com/book/show/95656.The_Ten_Faces_of_Innovation) | 2005 |
+| Богатый папа, бедный папа: Чему богатые учат своих детей о деньгах и чего не знают бедный и средний класс | Роберт Кийосаки | [3.95](https://www.goodreads.com/book/show/69571.Rich_Dad_Poor_Dad) | 1997 |
+| Основатели за работой: Истории ранних дней стартапов | Джессика Ливингстон | [3.94](https://www.goodreads.com/book/show/98233.Founders_at_Work) | 2007 |
+| Войны PayPal | Эрик Джексон | [3.94](https://www.goodreads.com/book/show/4052.The_PayPal_Wars) | 2010 |
+| Не уходи: Женщины, работа и воля к лидерству | Шерил Сэндберг | [3.94](http://www.goodreads.com/book/show/16071764-lean-in) | 2013 |
+| Переделать: Измени способ работы навсегда | Дэвид Хайнемайер Ханссон | [3.93](https://www.goodreads.com/book/show/6732019-rework) | 2010 |
+| 22 незыблемых закона брендинга | Лора Райс, Эл Райс | [3.93](https://www.goodreads.com/book/show/1565533.The_22_Immutable_Laws_of_Branding) | 1998 |
+| Фрикономика: Экономист-мошенник исследует скрытую сторону всего | Стивен Левитт, Стивен Дабнер | [3.93](https://www.goodreads.com/book/show/1202.Freakonomics) | 2006 |
+| Переломный момент: Как незначительные вещи могут иметь большое значение | Малколм Гладуэлл | [3.92](https://www.goodreads.com/book/show/2612.The_Tipping_Point) | 2002 |
+| Четыре шага к озарению | Стив Бланк | [3.92](https://www.goodreads.com/book/show/762542.The_Four_Steps_to_the_Epiphany) | 2005 |
+| Проклятие магната | Джонатан Ни, Брюс Гринвальд, Ава Сив | [3.91](https://www.goodreads.com/book/show/7162410-the-curse-of-the-mogul) | 2009 |
+| Давид и Голиаф: Аутсайдеры, неудачники и искусство сражения с гигантами | Малколм Гладуэлл | [3.90](https://www.goodreads.com/book/show/15751404-david-and-goliath) | 2013 |
+| Стратегия устойчивости: Бизнес-манифест | Адам Вербах | [3.89](https://www.goodreads.com/book/show/6553353-strategy-for-sustainability) | 2009 |
+| Чёрный лебедь: Влияние крайне невероятного | Нассим Талеб | [3.88](http://www.goodreads.com/book/show/242472.The_Black_Swan) | 2007 |
+| Заразительный: Почему вещи становятся популярными | Джона Бергер | [3.88](https://www.goodreads.com/book/show/15801967-contagious) | 2013 |
+| Кто сказал, что слоны не могут танцевать?: Как управлять великим предприятием через драматические изменения | Луис Герстнер | [3.88](https://www.goodreads.com/book/show/603985.Who_Says_Elephants_Can_t_Dance_) | 2003 |
+| Незаменимый: Вы незаменимы? | Сет Годин | [3.87](https://www.goodreads.com/book/show/7155145-linchpin) | 2010 |
+| Стартап за $100: Измени способ зарабатывать, делай то, что любишь, и создавай новое будущее | Крис Гиллебо | [3.85](https://www.goodreads.com/book/show/12605157-the-100-startup) | 2012 |
+| Слишком большой, чтобы рухнуть | Эндрю Росс Соркин | [3.85](https://www.goodreads.com/book/show/6687247-too-big-to-fail) | 2011 |
+| Парадокс выбора: Почему больше значит меньше | Барри Шварц | [3.84](https://www.goodreads.com/book/show/10639.The_Paradox_of_Choice) | 2005 |
+| Искусство начинать: Проверенное временем, закалённое в боях руководство для каждого, кто начинает что-то | Гай Кавасаки | [3.82](https://www.goodreads.com/book/show/37875.The_Art_of_the_Start) | 2004 |
+| Краудсорсинг: Почему сила толпы управляет будущим бизнеса | Джефф Хау | [3.82](https://www.goodreads.com/book/show/2601510-crowdsourcing) | 2008 |
+| Когнитивный избыток: Творчество и щедрость в сетевую эпоху | Клэй Ширки | [3.82](https://www.goodreads.com/book/show/7614793-cognitive-surplus) | 2010 |
+| Управляемые данными | Д. Дж. Патил | [3.80](https://www.goodreads.com/book/show/24780653-data-driven) | 2015 |
+| От нуля к единице | Питер Тиль, Блейк Мастерс | [3.75](https://www.goodreads.com/book/show/18050143-zero-to-one) | 2014 |
+| Один клик: Джефф Безос и взлёт Amazon.com | Ричард Брандт | [3.75](https://www.goodreads.com/book/show/11223478-one-click) | 2011 |
+| Большие данные: Революция, которая изменит то, как мы живём, работаем и думаем | Кеннет Кукьер | [3.70](https://www.goodreads.com/book/show/15815598-big-data) | 2013 |
+| Четырёхчасовая рабочая неделя: Сбеги от 9-5, живи где угодно и присоединяйся к новым богатым | Тимоти Феррис | [3.61](https://www.goodreads.com/book/show/368593.The_4_Hour_Workweek) | 2012 |
+| Случайные миллиардеры: Создание Facebook, история секса, денег, гениальности и предательства | Бен Мезрич | [3.50](https://www.goodreads.com/book/show/6326920-the-accidental-billionaires) | 2009 |
 
-If you like Mind Expanding books you should check out my new project http://diff.blog. It's a platform that help you keep updated with the developer community.
+Если вам нравятся книги, расширяющие сознание, обратите внимание на мой новый проект http://diff.blog. Это платформа, которая помогает вам быть в курсе событий в сообществе разработчиков.
 
-<a href="#top"><img src="https://img.shields.io/badge/Back%20to%20Top-↑-blue"/></a>
+<a href="#top"><img src="https://img.shields.io/badge/Вернуться%20наверх-↑-blue"/></a>
 
 ## Philosophy And Psychology
 | Name | Author | Goodreads Rating | Year Published |
